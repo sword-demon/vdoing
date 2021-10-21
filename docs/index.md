@@ -37,6 +37,32 @@ features: # 可选的
 ```
 :::
 
+::: cardList 2
+```yaml
+- name: typecho的博客
+  desc: 以前的老站点
+  link: http://blog.wjstar.top
+  bgColor: '#F0DFB1'
+  textColor: '#242A38'
+- name: CatchAdmin
+  desc: CatchAdmin是一款基于thinkphp framework和 ant degisn pro vue二次开发而成的后台管理系统
+  link: http://wjcatch.wjstar.top/#/dashboard
+  bgColor: '#DFEEE7'
+  textColor: '#2A3344'
+  avatar: http://wjcatch.wjstar.top/static/img/logo.f2ddd0e7.png
+- name: 小米商场静态页面
+  desc: 我学习前端的时候仿的一个官网页面
+  link: http://mitest.wjstar.top/
+  avatar: http://mitest.wjstar.top/images/logo-mi2.png
+- name: Github Page静态博客地址
+  desc: 使用next和hexo搭建的一个博客，部署在GitHub上
+  link: https://sword-demon.github.io/
+  bgColor: '#DFEEE7'
+  textColor: '#2A3344'
+```
+:::
+
+
 
 
 <!-- 小熊猫 -->
