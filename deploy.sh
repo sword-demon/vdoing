@@ -10,7 +10,7 @@ npm run build
 cd docs/.vuepress/dist
 
 # deploy to github pages
-echo 'www.wjstar.top' > CNAME
+# echo 'www.wjstar.top' > CNAME
 
 if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'

@@ -13,6 +13,12 @@ module.exports = [
         ]
       },
       {
+        text: 'Go文章',
+        items: [
+          { text: 'Go语言学习', link: '/pages/1be6f5/' },
+        ]
+      },
+      {
         text: 'Python文章',
         items: [
           { text: 'Python', link: '/pages/0ef862/' },
