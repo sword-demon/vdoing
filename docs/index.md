@@ -2,9 +2,9 @@
 home: true
 # heroImage: /img/web.png
 heroText: 无解的博客
-tagline: 全栈学习技术博客
+tagline: 纯粹的浪荡人士与抱定决心干大事的人，面相是截然不同的。
 # actionText: 立刻进入 →
-# actionLink: /web/
+# actionLink: /backend/
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
@@ -25,6 +25,18 @@ features: # 可选的
 # postList: detailed
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
 ---
+
+::: cardImgList 1
+```yaml
+- img: https://cdn.jsdelivr.net/gh/sword-demon/image_store/blog/161700131u7g.jpg
+  link: https://www.bilibili.com/video/BV1Ys411z7fo
+  name: Dade亚索
+  desc: Dade亚索精彩集锦 # 描述，可选
+  author: wxvirus # 作者，可选
+  avatar: https://cdn.jsdelivr.net/gh/sword-demon/image_store/blog/WechatIMG587.jpeg # 头像，可选
+```
+:::
+
 
 
 <!-- 小熊猫 -->
