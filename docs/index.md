@@ -11,8 +11,8 @@ features: # 可选的
   - title: 后端
     details: 后端技术
     link: /backend/ # 可选
-    imgUrl: /img/api-geteway.png # 可选
-  - title: 页面
+    imgUrl: /img/backend.jpg # 可选
+  - title: 前端
     details: html(5)/css(3)/js，前端页面相关技术
     link: /ui/
     imgUrl: /img/ui.png

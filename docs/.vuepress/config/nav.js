@@ -37,7 +37,7 @@ module.exports = [
     ],
   },
   {
-    text: '页面',
+    text: '前端',
     link: '/ui/',
     items: [
       { text: 'HTML', link: '/pages/8309a5b876fc95e3/' },
