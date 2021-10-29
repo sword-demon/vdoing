@@ -22,6 +22,15 @@ module.exports = [
                 ],
             },
             {
+                text: 'Java',
+                items: [
+                    {
+                        text: '《Java》',
+                        link: '/note/java/',
+                    },
+                ],
+            },
+            {
                 text: '学习笔记',
                 items: [
                     {
