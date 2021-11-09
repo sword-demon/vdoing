@@ -8,25 +8,25 @@ tagline: 纯粹的浪荡人士与抱定决心干大事的人，面相是截然�
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
-  - title: 后端
-    details: 后端技术
-    link: /backend/ # 可选
-    imgUrl: /img/backend.jpg # 可选
-  - title: 前端
-    details: html(5)/css(3)/js，前端页面相关技术
-    link: /ui/
-    imgUrl: /img/ui.png
-  - title: 技术
-    details: 技术文档、教程、技巧、总结或者运维等文章
-    link: /technology/
-    imgUrl: /img/other.png
-
+    - title: 后端
+      details: 后端技术
+      link: /backend/ # 可选
+      imgUrl: /img/backend.jpg # 可选
+    - title: 前端
+      details: html(5)/css(3)/js，前端页面相关技术
+      link: /ui/
+      imgUrl: /img/ui.png
+    - title: 技术
+      details: 技术文档、教程、技巧、总结或者运维等文章
+      link: /technology/
+      imgUrl: /img/other.png
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
 ---
 
 ::: cardImgList 1
+
 ```yaml
 - img: https://cdn.jsdelivr.net/gh/sword-demon/image_store/blog/161700131u7g.jpg
   link: https://www.bilibili.com/video/BV1Ys411z7fo
@@ -35,9 +35,11 @@ features: # 可选的
   author: wxvirus # 作者，可选
   avatar: https://cdn.jsdelivr.net/gh/sword-demon/image_store/blog/WechatIMG587.jpeg # 头像，可选
 ```
+
 :::
 
 ::: cardList 2
+
 ```yaml
 - name: typecho的博客
   desc: 以前的老站点
@@ -59,11 +61,14 @@ features: # 可选的
   link: https://sword-demon.github.io/
   bgColor: '#DFEEE7'
   textColor: '#2A3344'
+- name: 我的ThinkPHP5.1搭建的简单CMS
+  desc: 带有正常权限管理已经日志管理和错误信息收集，以及强大的配置操作，适合个人上手
+  link: http://wujie.wjstar.top/admin
+  bgColor: '#DFEEE7'
+  textColor: '#2A3344'
 ```
+
 :::
-
-
-
 
 <!-- 小熊猫 -->
 <!-- <img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> -->
