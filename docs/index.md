@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 无解的博客
+heroText: Licorne
 tagline: 纯粹的浪荡人士与抱定决心干大事的人，面相是截然不同的。
 # actionText: 立刻进入 →
 # actionLink: /backend/
@@ -16,7 +16,7 @@ features: # 可选的
       details: html(5)/css(3)/js，前端页面相关技术
       link: /ui/
       imgUrl: /img/ui.png
-    - title: 技术
+    - title: 随笔和相关技术文档
       details: 技术文档、教程、技巧、总结或者运维等文章
       link: /technology/
       imgUrl: /img/other.png
