@@ -47,7 +47,7 @@ module.exports = [
         items: [
             { text: 'HTML', link: '/pages/8309a5b876fc95e3/' },
             { text: 'CSS', link: '/pages/0a83b083bdf257cb/' },
-            { text: 'JS', link: '/pages/7601f3' },
+            { text: 'JS', link: '/pages/7601f3/' },
         ],
     },
     {
