@@ -25,7 +25,7 @@ features: # 可选的
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
 ---
 
-::: cardImgList 1
+::: cardImgList 2
 
 ```yaml
 - img: https://cdn.jsdelivr.net/gh/sword-demon/image_store/blog/161700131u7g.jpg
@@ -34,6 +34,12 @@ features: # 可选的
   desc: Dade亚索精彩集锦 # 描述，可选
   author: wxvirus # 作者，可选
   avatar: https://cdn.jsdelivr.net/gh/sword-demon/image_store/blog/WechatIMG587.jpeg # 头像，可选
+- img: https://gitee.com/wxvirus/img/raw/master/img/src=http___i0.hdslb.com_bfs_article_ad7600cb9b4845c7bae1d2fa23edffb382614ad4.jpg&refer=http___i0.hdslb.jpeg
+  link: https://www.bilibili.com/video/BV1Qf4y1K7ff?t=16.2
+  name: Java学习路线
+  desc: 程序员鱼皮分享的Java学习路线 # 描述，可选
+  author: wxvirus # 作者，可选
+  avatar: https://cdn.jsdelivr.net/gh/sword-demon/image_store/blog/WechatIMG587.jpeg
 ```
 
 :::
@@ -51,11 +57,9 @@ features: # 可选的
   link: http://wjcatch.wjstar.top/#/dashboard
   bgColor: '#DFEEE7'
   textColor: '#2A3344'
-  avatar: http://wjcatch.wjstar.top/static/img/logo.f2ddd0e7.png
 - name: 小米商场静态页面
   desc: 我学习前端的时候仿的一个官网页面
   link: http://mitest.wjstar.top/
-  avatar: http://mitest.wjstar.top/images/logo-mi2.png
 - name: Github Page静态博客地址
   desc: 使用next和hexo搭建的一个博客，部署在GitHub上
   link: https://sword-demon.github.io/
