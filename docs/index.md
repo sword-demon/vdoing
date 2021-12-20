@@ -28,7 +28,7 @@ features: # 可选的
 ::: cardImgList 2
 
 ```yaml
-- img: https://cdn.jsdelivr.net/gh/sword-demon/image_store/blog/161700131u7g.jpg
+- img: https://gitee.com/wxvirus/img/raw/master/img/161700131u7g.jpg
   link: https://www.bilibili.com/video/BV1Ys411z7fo
   name: Dade亚索
   desc: Dade亚索精彩集锦 # 描述，可选
