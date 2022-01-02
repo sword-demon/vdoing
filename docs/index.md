@@ -70,6 +70,11 @@ features: # 可选的
   link: http://wujie.wjstar.top/admin
   bgColor: '#DFEEE7'
   textColor: '#2A3344'
+- name: wiki知识库
+  desc: SpringBoot2.4 + Vue3 + WebSocket完成的电子书知识库项目
+  link: http://wiki.wjstar.top/
+  bgColor: 'orange'
+  textColor: '#232033'
 ```
 
 :::
