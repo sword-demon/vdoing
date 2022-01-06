@@ -75,6 +75,11 @@ features: # 可选的
   link: http://wiki.wjstar.top/
   bgColor: 'orange'
   textColor: '#232033'
+- name: bbs论坛
+  desc: Django2.2 + bootstrap + mysql实现小型论坛系统
+  link: http://bbs.wjstar.top/
+  bgColor: 'lightgreen'
+  textColor: '#232033'
 ```
 
 :::
