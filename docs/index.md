@@ -80,6 +80,11 @@ features: # 可选的
   link: http://bbs.wjstar.top/
   bgColor: 'lightgreen'
   textColor: '#232033'
+- name: halo docker搭建的博客
+  desc: java + docker halo博客
+  link: http://evil.wjstar.top/
+  bgColor: 'lightgreen'
+  textColor: '#232033'
 ```
 
 :::
