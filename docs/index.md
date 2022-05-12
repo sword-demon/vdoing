@@ -28,13 +28,13 @@ features: # 可选的
 ::: cardImgList 2
 
 ```yaml
-- img: https://gitee.com/wxvirus/img/raw/master/img/161700131u7g.jpg
+- img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4021/161700131u7g.jpg
   link: https://www.bilibili.com/video/BV1Ys411z7fo
   name: Dade亚索
   desc: Dade亚索精彩集锦 # 描述，可选
   author: wxvirus # 作者，可选
   avatar: https://cdn.jsdelivr.net/gh/sword-demon/image_store/blog/WechatIMG587.jpeg # 头像，可选
-- img: https://gitee.com/wxvirus/img/raw/master/img/src=http___i0.hdslb.com_bfs_article_ad7600cb9b4845c7bae1d2fa23edffb382614ad4.jpg&refer=http___i0.hdslb.jpeg
+- img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4021/src=http___i0.hdslb.com_bfs_article_ad7600cb9b4845c7bae1d2fa23edffb382614ad4.jpg&refer=http___i0.hdslb.jpeg
   link: https://www.bilibili.com/video/BV1Qf4y1K7ff?t=16.2
   name: Java学习路线
   desc: 程序员鱼皮分享的Java学习路线 # 描述，可选
