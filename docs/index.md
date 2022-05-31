@@ -5,7 +5,8 @@ heroText: Licorne
 tagline: 纯粹的浪荡人士与抱定决心干大事的人，面相是截然不同的。
 # actionText: 立刻进入 →
 # actionLink: /backend/
-# bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
+bannerBg: auto
+# auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
     - title: 后端
