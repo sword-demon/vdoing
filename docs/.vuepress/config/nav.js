@@ -7,19 +7,12 @@ module.exports = [
         items: [
             // 说明：以下所有link的值只是在相应md文件定义的永久链接（不是什么特殊生成的编码）。另外，注意结尾是有斜杠的
             {
-                text: 'PHP文章',
-                items: [{ text: 'PHP设计模式', link: '/pages/a09ce1/' }],
-            },
-            {
                 text: 'Go文章',
                 items: [{ text: 'Go语言学习', link: '/pages/1be6f5/' }],
             },
             {
-                text: 'Python文章',
-                items: [
-                    { text: 'Python', link: '/pages/0ef862/' },
-                    // { text: 'Vue', link: '/pages/5d463fbdb172d43b/' },
-                ],
+                text: 'Rust',
+                items: [{ text: 'Rust学习', link: '/pages/8dc34b/' }],
             },
             {
                 text: 'Java',
@@ -29,6 +22,17 @@ module.exports = [
                         link: '/note/java/',
                     },
                 ],
+            },
+            {
+                text: 'Python文章',
+                items: [
+                    { text: 'Python', link: '/pages/0ef862/' },
+                    // { text: 'Vue', link: '/pages/5d463fbdb172d43b/' },
+                ],
+            },
+            {
+                text: 'PHP文章',
+                items: [{ text: 'PHP设计模式', link: '/pages/a09ce1/' }],
             },
             {
                 text: '学习笔记',
