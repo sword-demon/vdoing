@@ -16,4 +16,5 @@ module.exports = {
     head,
     plugins,
     themeConfig,
+    dest: '/Users/wangxin/workspace/vdoing_dist_local'
 }
