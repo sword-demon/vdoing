@@ -64,6 +64,7 @@ module.exports = [
             { text: '博客搭建', link: '/pages/41f87d890d0a02af/' },
             { text: '算法学习', link: '/pages/9d0e8f/' },
             { text: '架构设计', link: '/pages/8f006a/' },
+            { text: '设计模式', link: '/pages/76c94d/' },
         ],
     },
     {
