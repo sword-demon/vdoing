@@ -82,7 +82,7 @@ module.exports = {
     footer: {
         // 页脚信息
         createYear: 2021, // 博客创建年份
-        copyrightInfo: 'wxvirus <div>苏ICP备2021007210号-1</div>', // 博客版权信息，支持a标签
+        copyrightInfo: 'wxvirus <a href="https://beian.miit.gov.cn/">苏ICP备2021007210号-1</a>', // 博客版权信息，支持a标签
     },
     // htmlModules // 插入hmtl(广告)模块
 }
